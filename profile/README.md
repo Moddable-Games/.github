@@ -9,4 +9,4 @@ The current collection of open source tools used on our website include:
 
 -----
 
-![HOMEPAGE](../moddable-homepage.png)
+[![HOMEPAGE](../moddable-homepage.png)](https://moddable.games/)
