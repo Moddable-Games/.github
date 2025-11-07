@@ -1,4 +1,4 @@
-## Welcome to the Moddable.Games Repo
+## Welcome to the [Moddable.Games](https://moddable.games) Repo
 
 The current collection of open source tools used on our website include:
 
